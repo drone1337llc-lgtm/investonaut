@@ -1,0 +1,6 @@
+streamlit>=1.30
+pandas>=2.0
+# Live mode: real CrewAI -> ollama-cloud crew + Alpaca paper account.
+# The app still runs fully offline without these (deterministic mock crew).
+crewai==1.15.18
+alpaca-py>=0.43

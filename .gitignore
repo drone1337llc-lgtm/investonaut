@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+# Real secrets — NEVER commit. Template is .streamlit/secrets.toml.example
+.streamlit/secrets.toml
