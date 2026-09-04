@@ -1,4 +1,4 @@
-Aria — a desktop AI companion
+Investonaut by Sergio Williams
 Copyright (c) 2026 Sergio Williams
 
 This work (the original code and assets authored for this project) is licensed under the
